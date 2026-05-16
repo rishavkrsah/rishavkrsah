@@ -39,6 +39,14 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 </a>
 
 <br/>
+<br/>
+
+<a href="https://rishavkrsah.github.io/terminal/">
+  <img src="https://img.shields.io/badge/CLICK_HERE_TO_USE_THE_TERMINAL-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
+</a>
+
+<br/>
+<br/>
 
 **Available Commands:** `help` • `about` • `skills` • `experience` • `projects` • `contact` • `resume` • `social`
 
