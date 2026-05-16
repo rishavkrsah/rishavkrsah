@@ -33,8 +33,8 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 **Try my interactive DevOps terminal!**
 
 <div align="center">
-
-<a href="https://rishavkrsah.github.io/terminal/">
+  
+<a href="https://rishavkrsah.github.io/terminal/" target="_blank">
   <img src="./assets/terminal-demo.gif" width="950"/>
 </a>
 
