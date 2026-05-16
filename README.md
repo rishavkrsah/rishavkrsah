@@ -1,16 +1,240 @@
-## Hi there 👋
+<div align="center">
+
+#  Rishav Kumar
+
+### DevOps Engineer • Cloud Infrastructure • Kubernetes • Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumarsah/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishavkrsah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishav.kr.sah@gmail.com)
+
+</div>
+
+---
+
+## 💻 About Me
+
+DevOps Engineer focused on building scalable infrastructure, automating deployments, and improving production reliability across cloud-native environments.
+
+I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platforms** while continuously exploring modern DevOps and SRE practices around observability, automation, and infrastructure scalability.
+
+- ⚙️ Automating infrastructure and deployment workflows
+- ☁️ Working with cloud-native and containerized platforms
+- 📦 Managing Kubernetes workloads and CI/CD pipelines
+- 📊 Improving monitoring, alerting, and operational visibility
+- 🔍 Interested in DevOps, SRE, Platform Engineering & Cloud Security
+
+---
+
+## 🖥️ Interactive Terminal
 
 <!--
-**rishavkrsah/rishavkrsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This is a simulated terminal showing common DevOps commands
+You can customize this section with your actual workflow
 -->
+
+```bash
+rishav@devops:~$ whoami
+DevOps Engineer | Cloud Infrastructure Specialist
+
+rishav@devops:~$ ls skills/
+aws/  kubernetes/  terraform/  ci-cd/  docker/  monitoring/  python/  bash/
+
+rishav@devops:~$ cat current_focus.yaml
+focus:
+  - Kubernetes & Cloud Infrastructure
+  - Terraform Modules & IaC Best Practices
+  - CI/CD Pipeline Automation
+  - Monitoring & Reliability Engineering
+  - DevSecOps & Platform Engineering
+
+rishav@devops:~$ echo $MOTTO
+"Automate everything that shouldn't require manual effort."
+
+rishav@devops:~$ kubectl get pods --all-namespaces
+NAMESPACE     NAME                        READY   STATUS    RESTARTS
+production    app-deployment-xyz          3/3     Running   0
+monitoring    prometheus-server           1/1     Running   0
+monitoring    grafana-dashboard           1/1     Running   0
+
+rishav@devops:~$ terraform --version
+Terraform v1.5.0
+
+rishav@devops:~$ docker ps
+CONTAINER ID   IMAGE           STATUS          PORTS
+a1b2c3d4e5f6   app:latest      Up 2 hours      0.0.0.0:8080->8080/tcp
+
+rishav@devops:~$ _
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🚀 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🔒 Security & DevSecOps
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🔧 Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Core Expertise
+
+```yaml
+Cloud Infrastructure:
+  platforms: [AWS, Azure, GCP]
+  services:
+    - EC2, EKS, Lambda, RDS, S3, CloudWatch
+    - VPC, Security Groups, Load Balancers
+    - IAM, Route53, CloudFront
+  
+Container Orchestration:
+  kubernetes:
+    - EKS, AKS, GKE cluster management
+    - Helm charts and package management
+    - Resource optimization and autoscaling
+    - Zero-downtime deployments
+  docker:
+    - Multi-stage builds
+    - Image optimization
+    - Registry management
+
+Infrastructure as Code:
+  tools: [Terraform, CloudFormation, Ansible]
+  practices:
+    - Modular and reusable configurations
+    - Multi-environment management
+    - State management and drift detection
+    
+CI/CD & Automation:
+  platforms: [Jenkins, GitHub Actions, GitLab CI, Azure DevOps]
+  practices:
+    - End-to-end pipeline design
+    - GitFlow branching strategies
+    - Automated testing and deployment
+    - Rollback strategies
+    
+DevSecOps:
+  security:
+    - Secrets management (Vault, AWS Secrets Manager)
+    - Code scanning (SonarQube)
+    - Vulnerability scanning
+    - RBAC and IAM policies
+    
+Observability:
+  stack: [Prometheus, Grafana, ELK, CloudWatch]
+  focus:
+    - Metrics collection and visualization
+    - Log aggregation and analysis
+    - Alert configuration
+    - SLI/SLO implementation
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavkrsah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavkrsah&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavkrsah&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rishavkrsah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+learning_path:
+  - Advanced Kubernetes patterns and operators
+  - Terraform module development and best practices
+  - GitOps workflows with ArgoCD
+  - Service mesh implementations (Istio, Linkerd)
+  - FinOps and cloud cost optimization
+  - Platform Engineering principles
+  
+side_projects:
+  - Building reusable Terraform modules
+  - Automating infrastructure provisioning
+  - Developing CI/CD templates
+  - Contributing to open-source DevOps tools
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumarsah/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishav.kr.sah@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Pune,_India-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 _"Automate everything that shouldn't require manual effort."_
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishavkrsah&color=blueviolet&style=for-the-badge)
+
+**⭐ From [rishavkrsah](https://github.com/rishavkrsah)**
+
+</div>
