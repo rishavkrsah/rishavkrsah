@@ -30,7 +30,8 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 
 ##  Interactive Terminal
 
-**Try my interactive DevOps terminal!** Type commands and explore my skills interactively.
+*Try my interactive DevOps terminal!* 
+Type commands and explore my skills interactively.
 
 <div align="center">
 
