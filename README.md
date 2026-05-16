@@ -2,7 +2,7 @@
 
 # Rishav Kumar
 
-### DevOps Engineer | Kubernetes | Cloud Infrastructure | Automation | CI/CD
+### DevOps Engineer | Kubernetes | Cloud Infrastructure | CI/CD | Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishav_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumarsah/)
 [![GitHub](https://img.shields.io/badge/GitHub-rishavkrsah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishavkrsah)
@@ -13,26 +13,18 @@
 
 ---
 
-## About Me
-
-DevOps Engineer focused on cloud-native infrastructure, Kubernetes, CI/CD automation, and scalable deployment workflows.
-
-I enjoy building reliable systems, automating repetitive tasks, improving observability, and working across modern DevOps and SRE ecosystems.
-
-- Cloud infrastructure automation
-- Kubernetes administration and deployments
-- CI/CD pipeline engineering
-- Infrastructure as Code and GitOps
-- Monitoring, logging, and reliability engineering
-- Platform Engineering and DevSecOps practices
-
----
+<div align="center">
 
 ## Interactive DevOps Terminal
 
-<div align="center">
+<img src="./assets/terminal-demo.gif" width="950"/>
 
-### [Launch Interactive Terminal](https://rishavkrsah.github.io/terminal/)
+<br/>
+<br/>
+
+[![Launch Terminal](https://img.shields.io/badge/Launch-Interactive_Terminal-00C853?style=for-the-badge&logo=gnubash&logoColor=white)](https://rishavkrsah.github.io/terminal/)
+
+<br/>
 
 `help` • `about` • `skills` • `projects` • `experience` • `resume` • `contact`
 
@@ -40,11 +32,27 @@ I enjoy building reliable systems, automating repetitive tasks, improving observ
 
 ---
 
+# About Me
+
+DevOps Engineer focused on building scalable infrastructure, automating deployment workflows, and improving reliability across cloud-native environments.
+
+I primarily work with Kubernetes, Terraform, CI/CD systems, and AWS-based infrastructure while continuously exploring modern DevOps, SRE, Platform Engineering, and observability practices.
+
+- Cloud Infrastructure Automation
+- Kubernetes Administration & Deployments
+- CI/CD Pipeline Engineering
+- Infrastructure as Code
+- GitOps & Deployment Automation
+- Monitoring, Logging & Reliability Engineering
+- DevSecOps & Cloud Security Practices
+
+---
+
 # Tech Stack
 
 ## Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -104,22 +112,32 @@ I enjoy building reliable systems, automating repetitive tasks, improving observ
 # Featured Projects
 
 ## Kubernetes GitOps Platform
+
 - Provisioned EKS infrastructure using Terraform
-- Implemented GitOps deployments using ArgoCD
+- Implemented GitOps deployment workflows using ArgoCD
 - Configured Prometheus and Grafana monitoring
-- Automated CI/CD workflows with GitHub Actions
+- Automated CI/CD pipelines using GitHub Actions
+- Improved deployment consistency and rollback workflows
+
+---
 
 ## Multi-Environment Terraform Infrastructure
+
 - Developed reusable Terraform modules
 - Managed separate development and production environments
 - Configured remote state management and locking
 - Automated infrastructure provisioning workflows
+- Reduced manual infrastructure changes and drift
+
+---
 
 ## CI/CD Automation Pipeline
-- Built automated Docker build and deployment pipelines
-- Added SonarQube integration and validation stages
+
+- Built automated Docker build and deployment workflows
+- Integrated SonarQube scanning and validation stages
 - Implemented rollback and deployment verification
-- Reduced manual deployment effort through automation
+- Improved deployment speed and operational reliability
+- Automated testing and release workflows
 
 ---
 
@@ -136,25 +154,33 @@ Infrastructure as Code:
   - CloudFormation
   - Ansible
 
-Containers:
+Containers & Orchestration:
   - Docker
   - Kubernetes
   - Helm
+  - EKS / AKS / GKE
 
-CI/CD:
+CI/CD & Automation:
   - Jenkins
   - GitHub Actions
   - GitLab CI
   - Azure DevOps
+  - ArgoCD
 
-Monitoring:
+Monitoring & Observability:
   - Prometheus
   - Grafana
   - ELK Stack
   - CloudWatch
+  - Datadog
 
 Security:
   - Vault
   - SonarQube
   - IAM
   - Secrets Management
+
+Scripting:
+  - Python
+  - Bash
+  - YAML
