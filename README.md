@@ -34,11 +34,9 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 
 <div align="center">
 
-<img src="./assets/terminal-demo.gif" width="950"/>
-
-<br/>
-
-### [![Launch Terminal](https://img.shields.io/badge/Launch-Interactive_Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00)](https://rishavkrsah.github.io/terminal/)
+<a href="https://rishavkrsah.github.io/terminal/">
+  <img src="./assets/terminal-demo.gif" width="950"/>
+</a>
 
 <br/>
 
