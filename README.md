@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Rishav Kumar
+# Rishav Kumar
 
-### DevOps Engineer • Cloud Infrastructure • Kubernetes • Automation
+## DevOps Engineer • Cloud Infrastructure • Kubernetes • Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumarsah/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishavkrsah)
@@ -15,21 +15,21 @@
 
 ---
 
-## 💻 About Me
+##  About Me
 
 DevOps Engineer focused on building scalable infrastructure, automating deployments, and improving production reliability across cloud-native environments.
 
 I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platforms** while continuously exploring modern DevOps and SRE practices around observability, automation, and infrastructure scalability.
 
-- ⚙️ Automating infrastructure and deployment workflows
-- ☁️ Working with cloud-native and containerized platforms
-- 📦 Managing Kubernetes workloads and CI/CD pipelines
-- 📊 Improving monitoring, alerting, and operational visibility
-- 🔍 Interested in DevOps, SRE, Platform Engineering & Cloud Security
+-  Automating infrastructure and deployment workflows
+-  Working with cloud-native and containerized platforms
+-  Managing Kubernetes workloads and CI/CD pipelines
+-  Improving monitoring, alerting, and operational visibility
+-  Interested in DevOps, SRE, Platform Engineering & Cloud Security
 
 ---
 
-## 🖥️ Interactive Terminal
+##  Interactive Terminal
 
 **Try my interactive DevOps terminal!** Type commands and explore my skills interactively.
 
@@ -49,9 +49,9 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -60,7 +60,7 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
-### 🚀 DevOps & CI/CD
+###  DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -68,7 +68,7 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-161616?style=for-the-badge&logo=circleci&logoColor=white)
 
-### 📦 Containers & Orchestration
+###  Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -77,26 +77,25 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 ![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
-### 📊 Monitoring & Observability
+###  Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
 
-### 🔒 Security & DevSecOps
+###  Security & DevSecOps
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![AWS Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white)
 
-### 💻 Programming & Scripting
+###  Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 🔧 Version Control & Collaboration
+###  Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -105,7 +104,7 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 
 ---
 
-## 💼 Core Expertise
+##  Core Expertise
 
 ```yaml
 Cloud Infrastructure:
