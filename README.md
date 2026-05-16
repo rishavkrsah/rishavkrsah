@@ -35,13 +35,13 @@ I work primarily with **AWS**, **Kubernetes**, **Terraform**, and **CI/CD platfo
 <div align="center">
   
 <a href="https://rishavkrsah.github.io/terminal/" target="_blank">
-  <img src="https://img.shields.io/badge/CLICK_HERE_TO_USE_THE_TERMINAL-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
+  <img src="./assets/terminal-demo.gif" width="950"/>
 </a>
 
 <br/>
 <br/>
 
-<a href="https://rishavkrsah.github.io/terminal/">
+<a href="https://rishavkrsah.github.io/terminal/" target="_blank">
   <img src="https://img.shields.io/badge/CLICK_HERE_TO_USE_THE_TERMINAL-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
 </a>
 
