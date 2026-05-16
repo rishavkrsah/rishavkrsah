@@ -7,9 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishavkumarsah/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishavkrsah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishav.kr.sah@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rishavkrsah&color=blueviolet&style=for-the-badge)](https://github.com/rishavkrsah)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rishavkrsah.rishavkrsah)](https://github.com/rishavkrsah)
-[![Repos](https://img.shields.io/badge/Public_Repos-View-2ea44f?style=for-the-badge&logo=github)](https://github.com/rishavkrsah?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=rishavkrsah&style=for-the-badge&color=blueviolet)](https://github.com/rishavkrsah)
+[![Repositories](https://img.shields.io/badge/Public_Repos-View-2ea44f?style=for-the-badge&logo=github)](https://github.com/rishavkrsah?tab=repositories)
 
 </div>
 
